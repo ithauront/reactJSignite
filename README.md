@@ -6,6 +6,13 @@ The main goal was to practice component structure, styling, and basic usage of l
 
 ---
 
+## ## 🌐 Live Preview
+
+[![View on GitHub Pages](https://img.shields.io/badge/Live%20Preview-Click%20Here-blue?style=for-the-badge)](https://ithauront.github.io/social-feed/)
+
+Or access directly: [https://ithauront.github.io/social-feed/](https://ithauront.github.io/social-feed/)
+
+
 ## 🚀 Technologies Used
 
 - **React.js**
