@@ -1,14 +1,20 @@
 {
   "name": "social-feed",
+  "homepage": "https://ithauront.github.io/social-feed",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
+    "date-fns": "^4.1.0",
+    "phosphor-icons": "^1.4.2",
+    "phosphor-react": "^1.4.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
